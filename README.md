@@ -1,5 +1,4 @@
-
-![Banner Data Science and Marketing](https://github.com/HellenEunice/HellenEunice/assets/145653265/68667ea3-3dbe-419f-a743-dfe05d1f7ebf)
+![Banner Data Science and Marketing](https://github.com/HellenEunice/HellenEunice/assets/145653265/f08d71ce-2dda-46c6-a32f-816798d13f69)
 
 <h1 align="center">Hi 👋, I'm Hellen Eunice Lanza</h1>
 <h3 align="center">A passionate data scientist and marketing expert.</h3>
