@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner%20github.jpg" alt="Hellen Eunice banner" width="100%">
+</p>
+
 # Hi 👋, I'm Hellen Eunice Lanza
 
 ### Marketing × Data × Automation × AI
